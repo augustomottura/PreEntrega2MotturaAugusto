@@ -1,0 +1,192 @@
+.navbar{
+    background-color: black;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-item:hover{
+    background-color: rgb(98, 98, 98);
+    border-radius: 5px;
+}
+
+.jumbotron{
+    background-color: rgb(44, 44, 44);
+}
+
+.jumbotron p{
+    color: gainsboro;
+}
+
+.jumbotron .btn{
+    background-color: black;
+    color: white;
+}
+
+.jumbotron .btn:hover{
+    background-color: darkgray;
+}
+
+h2{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px
+}
+
+.nleft{
+    height: 350px;
+    background-image: url(img/85AB7115-F181-46AF-9A88-6936AAFB5B29.JPEG);
+    background-size: cover;
+    background-position: center;
+}
+
+.feat{
+    background-color: dimgrey;
+    color: white;
+    border: 3px solid white;
+    text-align: center;
+}
+
+.feat span{
+    font-size: 30px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.sedes{
+    background-color: gray;
+    color: gray;
+}
+
+.lefti{
+    background-image: url(img/unnamed.jpeg);
+}
+
+.navbar{
+    background-color: black;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-item:hover{
+    background-color: rgb(98, 98, 98);
+    border-radius: 5px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.logo{
+    float: left;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.barra{
+    float:right
+}
+
+.barra ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.barra a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.barra a:hover{
+    color: rgb(255, 255, 255);
+}
+
+main{
+    height: 110vh;
+    width: 100%;
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+}
+
+
+h1{
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
+section{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 100px;
+}
+
+.item{
+    height: 300px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+table{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 25px;
+    width: 300px;
+    height: 75px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.call{
+    color: rgb(175, 175, 175);
+    width: 70%;
+    background-color: black;
+    border: 4px solid rgb(175, 175, 175);
+    padding: 20px;
+    float: right;
+    margin: 30px;
+}
+.lastgame{
+    color: rgb(175, 175, 175);
+    width: 70%;
+    background-color: black;
+    border: 4px solid rgb(175, 175, 175);
+    padding: 20px;
+    float: left;
+    margin: 30px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 25x;
+}
